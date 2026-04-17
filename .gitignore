@@ -1,0 +1,61 @@
+# 虚拟环境
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm/IDEA相关文件
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.eggs/
+.eggs/
+*.whl
+
+# 程序运行生成的文件
+privacy_shield_config.json
+owner_info.pkl
+privacy_shield.log
+*.log
+
+# 截图目录
+# 注意：如果你不想忽略截图，就删除下面这一行
+C:/Users/mahaoxing/Pictures/pricay/
+pricay/
+screenshots/
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.bak
